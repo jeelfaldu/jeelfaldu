@@ -17,6 +17,6 @@ Life quote:
 - <a href="https://play.google.com/store/apps/details?id=techsoft.createpdf">**PDF CONVERTER**</a>
 
 ## Social
-<a href="https://www.linkedin.com/in/jeel-faldu-654034184/" target="_blank"> <img src="https://img.icons8.com/android/48/000000/linkedin.png"/> </a>  <a href="https://www.instagram.com/jeel_faldu/" target="_blank"><img src="https://img.icons8.com/small/64/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/jeel-faldu-654034184/" target="_blank"> <img src="https://img.icons8.com/windows/64/000000/linkedin-2.png"/> </a>  <a href="https://www.instagram.com/jeel_faldu/" target="_blank"><img src="https://img.icons8.com/small/64/000000/instagram-new.png"/></a>
 
 
