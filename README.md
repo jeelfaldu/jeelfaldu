@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, I am Jeel Faldu! 🙏
+Life quote:
+> I'm a selftaught developer with a strong eye for innovative design and a keen undersanding of techniques  geared toward optimum user experience.
 
-<!--
-**jeelfaldu/jeelfaldu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 👨  I’m an Android Engineer, living in Junagadh.
+- 🎓 I’m student at RK University in 7th semester, Rajkot
+- 📷 Photographer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am doing
+- 🏢 Now this days i'm Working With <a href="https://www.epsilon-technology.com"> **Epsilon Technology** </a> 
+- 🙌 I mainly do work on Android, PHP, Python, Firebase, Ionic, Angular . I currently learning React
+
+## Project undertaking
+- <a href="https://play.google.com/store/apps/details?id=com.techsoft.docconverter">**Document converter : docx to pdf image to pdf png**</a>
+- <a href="https://play.google.com/store/apps/details?id=techsoft.createpdf">**PDF CONVERTER**</a>
+
+## Social
+<a href="https://www.linkedin.com/in/jeel-faldu-654034184/" target="_blank"> <img src="https://img.icons8.com/android/48/000000/linkedin.png"/> </a>  <a href="https://www.instagram.com/jeel_faldu/" target="_blank"><img src="https://img.icons8.com/small/64/000000/instagram-new.png"/></a>
+
+
