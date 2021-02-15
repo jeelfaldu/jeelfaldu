@@ -5,7 +5,7 @@ Life quote:
 ## About me
 
 - 👨  I’m an Android Engineer, living in Junagadh.
-- 🎓 I’m student at RK University in 7th semester, Rajkot
+- 🎓 I’m student at RK University in 8th semester, Rajkot
 - 📷 Photographer
 
 ## What I am doing
