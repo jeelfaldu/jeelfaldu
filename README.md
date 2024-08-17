@@ -1,6 +1,6 @@
 # Hi there 👋, I am Jeel Faldu! 🙏
 Life quote:
-> I'm a selftaught developer with a strong eye for innovative design and a keen undersanding of techniques geared toward optimum user experience.
+> I’m an experienced developer with 3.5 years of expertise in building high-quality, cross-platform mobile apps and Web App, I create seamless user experiences for both Web and Android. Let’s bring your app vision to life.
 
 ## About me
 
@@ -9,12 +9,12 @@ Life quote:
 - 📷 Photography 🎥 Cinematography, 🚃 Traveling
 
 ## What I am doing
-- 🏢 Now this days i'm Working With <a href="https://www.epsilon-technology.com"> **Epsilon Technology** </a> 
-- 🙌 I mainly do work on Android, PHP, Python, Firebase, Ionic, Angular, React, Node, SQL, MongoDB, . I currently learning Graphql
+- 🏢 Now this days i'm Working With <a href="https://www.fishelly.com"> **Fishelly Pvt Ltd** </a> 
+- 🙌 I mainly do work on Angular, Nextjs, Tailwind CSS, Ionic, Node, Firebase, SQL, MongoDB. I currently learning AWS
 
 ## Project undertaking
-- <a href="https://play.google.com/store/apps/details?id=com.techsoft.docconverter">**Document converter : docx to pdf image to pdf png**</a>
-- <a href="https://play.google.com/store/apps/details?id=techsoft.createpdf">**PDF CONVERTER**</a>
+- <a href="https://somenu.digital">**Somenu.digital**</a>
+- <a href="https://www.fishelly.com">**Fishelly**</a>
 
 ## Social
 <a href="https://www.linkedin.com/in/jeel-faldu-654034184/" target="_blank"> <img src="https://img.icons8.com/windows/64/000000/linkedin-2.png"/> </a>  <a href="https://www.instagram.com/jeel_faldu/" target="_blank"><img src="https://img.icons8.com/small/64/000000/instagram-new.png"/></a>
